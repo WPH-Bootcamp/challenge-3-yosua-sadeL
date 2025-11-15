@@ -43,7 +43,7 @@ You will only need to modify the index.js file for this assignment.
   - `subtract(a, b)`: Returns `a - b`
   - `multiply(a, b)`: Returns `a * b`
   - `divide(a, b)`: Returns `a / b`
-    - Handle division by zero: if `b` is 0, return a specific string like `"Error: Division by zero!"`.
+  - Handle division by zero: if `b` is 0, return a specific string like `"Error: Division by zero!"`.
   - `modulo(a, b)`: Returns `a % b`
   - `power(a, b)`: Returns `a ** b`
 
